@@ -103,7 +103,7 @@ h5.text-center{
 .validation{
     display: block;
     font-size: 20px;
-    margin-top: 0px;
+    margin-top: -25px;
     color: red;
     
 }
