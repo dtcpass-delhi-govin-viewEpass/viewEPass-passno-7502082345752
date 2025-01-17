@@ -103,7 +103,8 @@ h5.text-center{
 .validation{
     display: block;
     font-size: 20px;
-    margin-top: -20px;
+    margin-top: -10px;
+    
     color: #e42a11;
 }
 #blink{
