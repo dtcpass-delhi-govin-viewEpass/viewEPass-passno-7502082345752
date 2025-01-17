@@ -97,13 +97,13 @@ h5.text-center{
 }
 .pass-number{
     display: block;
-    margin-top: -15px !important;
+    margin-top: -20px !important;
     font-size: 25px;
 }
 .validation{
     display: block;
     font-size: 20px;
-    margin-top: -18px;
+    margin-top: -20px;
     color: #e42a11;
 }
 #blink{
