@@ -99,13 +99,14 @@ h5.text-center{
     display: block;
     margin-top: -15px !important;
     font-size: 25px;
+    margin-bottom: -15px;
 }
 .validation{
     display: block;
     font-size: 20px;
-    margin-top: -5px;
+    margin-top: -15px;
     color: red;
-    margin-bottom: 20px;
+    
 }
 #blink{
     color: #2f8a12;
