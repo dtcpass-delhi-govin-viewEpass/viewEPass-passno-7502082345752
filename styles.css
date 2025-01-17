@@ -96,13 +96,9 @@ h5.text-center{
     margin-top: -15px !important;
 }
 .pass-number{
-/*     display: block;
+    display: block;
     margin-top: -15px !important;
-    font-size: 25px; */
-    display: inline-flex; /* Ensures elements stay on the same line */
-    align-items: center; /* Vertically centers the text */
-    margin-top: -15px !important; /* Retain your existing styling */
-    font-size: 25px; /* Adjusts font size */
+    font-size: 25px;
 }
 .validation{
     display: block;
@@ -113,7 +109,7 @@ h5.text-center{
 #blink{
     color: #2f8a12;
     transition: 1.2s;
-    margin-left: 8px
+/*     margin-left: 8px */
 }
 td{
     line-height: 1.573;
