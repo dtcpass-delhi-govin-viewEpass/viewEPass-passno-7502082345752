@@ -108,8 +108,7 @@ h5.text-center{
 }
 #blink{
     color: #2f8a12;
-    transition: 1.2s;
-
+    transition: 1.5s;
 }
 td{
     line-height: 1.573;
