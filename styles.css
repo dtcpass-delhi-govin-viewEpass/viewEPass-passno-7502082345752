@@ -97,7 +97,7 @@ h5.text-center{
 }
 .pass-number{
     display: block;
-    margin-top: -15px;
+    margin-top: -15px !important;
     font-size: 25px;
 }
 .validation{
