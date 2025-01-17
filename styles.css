@@ -83,8 +83,8 @@ h5.text-center{
     text-align: center;
 }
 .qr-code img{
-    height: 70px;
-    width: 70px;
+    height: 77px;
+    width: 77px;
 }
 .name{
     display: block;
@@ -108,7 +108,7 @@ h5.text-center{
 }
 #blink{
     color: #2f8a12;
-    transition: 1.5s;
+    transition: 1.2s;
 }
 td{
     line-height: 1.573;
